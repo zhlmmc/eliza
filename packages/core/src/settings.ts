@@ -166,3 +166,6 @@ function parseNamespacedSettings(env: Settings): NamespacedSettings {
 
     return namespaced;
 }
+
+
+export { environmentSettings, isBrowser, parseNamespacedSettings };
