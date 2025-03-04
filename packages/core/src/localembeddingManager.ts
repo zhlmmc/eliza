@@ -178,3 +178,6 @@ class LocalEmbeddingModelManager {
 }
 
 export default LocalEmbeddingModelManager;
+
+
+export { LocalEmbeddingModelManager };
